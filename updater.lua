@@ -20,5 +20,6 @@ end
 if kickbp() then
     -- kick player
         player:Kick("Rift has detected a game update, please wait for an all clear.")
+        return
     end
 end
