@@ -1,3 +1,6 @@
+--// Sorry if this code is messy.
+
+-- locals
 local Players = game:GetService("Players")
 local HttpService = game:GetService("HttpService")
 
