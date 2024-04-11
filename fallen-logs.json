@@ -1,0 +1,108 @@
+[
+    {
+        "timestamp": "2024-04-12T15:00:00",
+        "message": "Anticheat Bypassed",
+        "player": "JohnsonYT",
+        "action": "Speedhack",
+        "method_used": "Script Injection",
+        "severity": "High",
+        "bypassed": true,
+        "executor": "Krampus",
+        "script": "Rift",
+        "banrate": "0.001%",
+        "additional_info": "Player used a modified script to increase movement speed."
+    },
+    {
+        "timestamp": "2024-04-12T15:05:00",
+        "message": "Anticheat Bypassed",
+        "player": "JoezYT",
+        "action": "Flying",
+        "method_used": "Modified Client",
+        "severity": "Medium",
+        "bypassed": false,
+        "executor": "Krampus",
+        "script": "Rift",
+        "banrate": "0.002%",
+        "additional_info": "Player attempted to fly using a third-party client but was detected by the anticheat."
+    },
+    {
+        "timestamp": "2024-04-12T15:10:00",
+        "message": "Anticheat Bypassed",
+        "player": "DemiseYouTube",
+        "action": "Teleportation",
+        "method_used": "Exploit Tool",
+        "severity": "High",
+        "bypassed": true,
+        "executor": "Krampus",
+        "script": "Rift",
+        "banrate": "0.0015%",
+        "additional_info": "Player used an exploit tool to teleport to prohibited locations."
+    },
+    {
+        "timestamp": "2024-04-12T15:15:00",
+        "message": "Anticheat Bypassed",
+        "player": "RagingGamer",
+        "action": "God Mode",
+        "method_used": "Memory Hacking",
+        "severity": "High",
+        "bypassed": true,
+        "executor": "Krampus",
+        "script": "Rift",
+        "banrate": "0.0025%",
+        "additional_info": "Player manipulated memory to enable invincibility."
+    },
+    {
+        "timestamp": "2024-04-12T15:20:00",
+        "message": "Anticheat Bypassed",
+        "player": "NinjaPlays",
+        "action": "Item Duplication",
+        "method_used": "Packet Manipulation",
+        "severity": "Medium",
+        "bypassed": false,
+        "executor": "Krampus",
+        "script": "Rift",
+        "banrate": "0.0018%",
+        "additional_info": "Player attempted to duplicate items using manipulated network packets."
+    },
+    {
+        "timestamp": "2024-04-12T15:25:00",
+        "message": "Anticheat Bypassed",
+        "player": "GamingMaster",
+        "action": "Wallhack",
+        "method_used": "Memory Modification",
+        "severity": "High",
+        "bypassed": true,
+        "executor": "Krampus",
+        "script": "Rift",
+        "banrate": "0.0022%",
+        "additional_info": "Player modified memory to reveal hidden walls and objects."
+    },
+    {
+        "timestamp": "2024-04-12T15:30:00",
+        "message": "Anticheat Bypassed",
+        "player": "ProGamerX",
+        "action": "Aimbot",
+        "method_used": "Memory Injection",
+        "severity": "High",
+        "bypassed": true,
+        "executor": "Krampus",
+        "script": "Rift",
+        "banrate": "0.0013%",
+        "additional_info": "Player injected code into memory to enable automatic aiming."
+    },
+    {
+        "timestamp": "2024-04-12T15:35:00",
+        "message": "Game Fallen",
+        "player": "Krampus",
+        "action": "Admin-hijacking",
+        "method_used": "Remote Code Execution",
+        "severity": "Extreme",
+        "bypassed": true,
+        "executor": "Krampus",
+        "script": "Rift",
+        "banrate": "100%",
+        "additional_info": "Krampus took control of the game server and assumed admin privileges, causing the game to collapse."
+    }
+]
+
+"All actions have been manipulated to bypass anticheat"
