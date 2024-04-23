@@ -3709,8 +3709,6 @@ do
 
     end;
 
-return library;
-
 end;
-
+return lib
 --// End Of UI
